@@ -1,0 +1,29 @@
+{
+  "name": "skeleton-es6-setup-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.1.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^22.0.6",
+    "regenerator-runtime": "^0.11.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlottebrf/skeleton-es6-setup-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlottebrf/skeleton-es6-setup-generator/issues"
+  },
+  "homepage": "https://github.com/charlottebrf/skeleton-es6-setup-generator#readme"
+}
